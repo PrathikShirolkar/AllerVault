@@ -1,0 +1,14 @@
+D:\Projects\AllerVault\engine\target\armv7-linux-androideabi\release\deps\serde-b7aa4e3f608af7c5.d: C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\Projects\AllerVault\engine\target\armv7-linux-androideabi\release\build\serde-8c129a7f4f729194\out/private.rs
+
+D:\Projects\AllerVault\engine\target\armv7-linux-androideabi\release\deps\libserde-b7aa4e3f608af7c5.rlib: C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\Projects\AllerVault\engine\target\armv7-linux-androideabi\release\build\serde-8c129a7f4f729194\out/private.rs
+
+D:\Projects\AllerVault\engine\target\armv7-linux-androideabi\release\deps\libserde-b7aa4e3f608af7c5.rmeta: C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs D:\Projects\AllerVault\engine\target\armv7-linux-androideabi\release\build\serde-8c129a7f4f729194\out/private.rs
+
+C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\prath\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+D:\Projects\AllerVault\engine\target\armv7-linux-androideabi\release\build\serde-8c129a7f4f729194\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\Projects\\AllerVault\\engine\\target\\armv7-linux-androideabi\\release\\build\\serde-8c129a7f4f729194\\out

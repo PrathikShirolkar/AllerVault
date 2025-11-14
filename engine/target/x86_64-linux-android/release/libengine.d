@@ -1,0 +1,1 @@
+D:\Projects\AllerVault\engine\target\x86_64-linux-android\release\libengine.so: D:\Projects\AllerVault\engine\src\lib.rs D:\Projects\AllerVault\engine\src\pipeline.rs D:\Projects\AllerVault\engine\src\types.rs

@@ -1,0 +1,20 @@
+name: aller_vault_app
+description: Minimal single-screen camera app with Rust engine stub
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5+2
+  flutter_svg: ^2.0.9
+  ffi: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
